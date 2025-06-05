@@ -1,0 +1,37 @@
+{
+    "buttons":{
+        "title": "Juego del 21",
+        "play-button": "Jugar",
+        "info-button": "Cómo jugar",
+        "config-button": "Configuracion",
+        "credits-button": "Creditos"
+    },
+    "info":{
+        "title": "Como jugar el 21",
+        "rule1":" -En cada ronda se repartiran 2 cartas a cada uno",
+        "rule2": "-El jugador puede elegir si quiere más cartas o se queda con lo que tiene",
+        "rule3": " -Ganará aquel que tenga el puntaje más cercano a 21",
+        "text": "Buena suerte",
+        "back-button":"Regresar"
+    },
+    "credits":{
+        "title":"Juego desarrollado por"
+    },
+    "game":{
+        "pick-up-button":"Sacar una carta",
+        "go-to-menu":"Regresar al menu",
+        "pass-turn":"Pasar turno",
+        "pc-score":"Puntos de la maquina: ",
+        "player-score":"Puntos del jugador: ",
+        "title":"Juego de cartas",
+        "number":"21"       
+     },
+     "modal":{
+        "win-msg":"Ganaste",
+        "lose-msg":"Perdiste",
+        "tie-msg":"Nadie ganó",
+        "player-points": "Partidas ganadas del jugador: ",
+        "pc-points": "Partidas ganadas Maquina: ",
+        "restart":"Empezar de nuevo"
+    }
+}

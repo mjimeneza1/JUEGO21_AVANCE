@@ -1,0 +1,127 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.body{
+ 
+  background-image: url("./assets/fondo4.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+/* contenedor */
+.contenedor{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2.5rem;
+}
+.cnt{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+  margin-top: 5rem;
+}
+
+/* Botones */
+
+.btn{
+ 
+  background-color: #2e3361;
+  padding: .5rem;
+  width: 7rem;
+  color: white;
+  border-radius: .5rem;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.btn:hover{
+  background-color: white;
+  color: #2e3361;
+  font-weight: bolder;
+  transform: scale(1.1);
+  transition: all .23s;
+}
+
+.btn2{
+  background-color: #2e3361;
+  padding: .5rem;
+  width: 3rem;
+  color: white;
+  border-radius: .5rem;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.btn2:hover{
+  background-color: white;
+  color: #2e3361;
+  font-weight: bolder;
+  transform: scale(1.1);
+  transition: all .23s;
+}
+
+
+
+.infoC{
+  background-image: url("info.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+ 
+}
+.tablero{
+  background-image: none;
+  background-color: #1D4E31;
+}
+
+.btn3{
+  background-color: #ffffff;
+  padding: .5rem;
+  width: 3rem;
+  color: rgb(133, 44, 44);
+  border-radius: .5rem;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+.btn3:hover{
+  background-color: white;
+  color: #E12D2B;
+  font-weight: bolder;
+  transform: scale(1.1);
+  transition: all .23s;
+}
+.title{
+  display: flex;
+  flex-direction: row;
+  gap: 4rem;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  
+}
+.title:first-child{
+  justify-content: left;
+}
+
+.fondo{
+  background-image: url("./assets/cesped.jpg");
+}

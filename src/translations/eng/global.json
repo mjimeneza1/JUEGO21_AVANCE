@@ -1,0 +1,38 @@
+{
+    "buttons":{
+        "title": "BlackJack",
+        "play-button": "Play",
+        "info-button": "How to play",
+        "config-button": "Settings",
+        "credits-button": "Credits"
+    },
+    "info":{
+        "title": "How to Play BlackJack",
+        "rule1":" -On each round all the players will get two cards",
+        "rule2": "-The player would be able to choose if he wants to pick up more cards or stay with the cards he has at that moment",
+        "rule3": " -The winner would be the one who gets the most nearest score to 21",
+        "text": "Good Luck",
+        "back-button":"Back"
+    },
+    "credits":{
+        "title":"Game Developed by"
+    },
+    "game":{
+       "pick-up-button":"Pick up card",
+       "go-to-menu":"Go to menu",
+       "pass-turn":"Pass turn",
+       "pc-score":"Pc score: ",
+       "player-score":"Player score: ",
+       "title":"BlackJack",
+       "number":""   
+    },
+    "modal":{
+        "win-msg":"You win",
+        "lose-msg":"You lose",
+        "tie-msg":"Nobody wins",
+        "player-points": "Matches won by the player: ",
+        "pc-points": "Matches won by the Computer: ",
+        "restart":"Restart"
+    }
+    
+}
