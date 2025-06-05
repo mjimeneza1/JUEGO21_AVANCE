@@ -1,7 +1,7 @@
 {
     "buttons":{
         "title": "Juego del 21",
-        "play-button": "Jugar",
+        "play-button": "Iniciar el juego",
         "info-button": "Cómo jugar",
         "config-button": "Configuracion",
         "credits-button": "Creditos"
